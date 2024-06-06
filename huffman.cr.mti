@@ -1,0 +1,15 @@
+C:/Users/User/Desktop/B_ICC2018_priliminary_grad_cell_based/huffman.v {1 {vlog -work work -stats=none C:/Users/User/Desktop/B_ICC2018_priliminary_grad_cell_based/huffman.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module huffman
+
+Top level modules:
+	huffman
+
+} {} {}} C:/Users/User/Desktop/B_ICC2018_priliminary_grad_cell_based/tb.v {1 {vlog -work work -stats=none C:/Users/User/Desktop/B_ICC2018_priliminary_grad_cell_based/tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}}

@@ -1,0 +1,700 @@
+# Compile of huffman.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb
+# vsim -gui work.tb 
+# Start time: 13:48:55 on Jun 05,2024
+# Loading work.tb
+# Loading work.huffman
+run -all
+# ./pattern1.dat and ./golden1.dat were used for this simulation.
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check HC : ERROR
+# Check M : ERROR
+# Simulation stop here.
+# ** Note: $finish    : C:/Users/User/Desktop/B_ICC2018_priliminary_grad_cell_based/tb.v(154)
+#    Time: 1750 ns  Iteration: 1  Instance: /tb
+# 1
+# Break in Module tb at C:/Users/User/Desktop/B_ICC2018_priliminary_grad_cell_based/tb.v line 154
+add wave -position insertpoint sim:/tb/u_huffman/*
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ./pattern1.dat and ./golden1.dat were used for this simulation.
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check HC : ERROR
+# Check M : ERROR
+# Simulation stop here.
+# ** Note: $finish    : C:/Users/User/Desktop/B_ICC2018_priliminary_grad_cell_based/tb.v(154)
+#    Time: 1750 ns  Iteration: 1  Instance: /tb
+# 1
+# Break in Module tb at C:/Users/User/Desktop/B_ICC2018_priliminary_grad_cell_based/tb.v line 154
+# Compile of huffman.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb
+# Loading work.huffman
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ./pattern1.dat and ./golden1.dat were used for this simulation.
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check HC : ERROR
+# Check M : ERROR
+# Simulation stop here.
+# ** Note: $finish    : C:/Users/User/Desktop/B_ICC2018_priliminary_grad_cell_based/tb.v(154)
+#    Time: 175 us  Iteration: 1  Instance: /tb
+# 1
+# Break in Module tb at C:/Users/User/Desktop/B_ICC2018_priliminary_grad_cell_based/tb.v line 154
+# Compile of huffman.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb
+# Loading work.huffman
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ./pattern1.dat and ./golden1.dat were used for this simulation.
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check HC : ERROR
+# Check M : PASS
+# Simulation stop here.
+# ** Note: $finish    : C:/Users/User/Desktop/B_ICC2018_priliminary_grad_cell_based/tb.v(160)
+#    Time: 175 us  Iteration: 1  Instance: /tb
+# 1
+# Break in Module tb at C:/Users/User/Desktop/B_ICC2018_priliminary_grad_cell_based/tb.v line 160
+# Compile of huffman.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb
+# Loading work.huffman
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ./pattern1.dat and ./golden1.dat were used for this simulation.
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check HC : PASS
+# Check M : PASS
+# You PASS the contest now.
+# ** Note: $finish    : C:/Users/User/Desktop/B_ICC2018_priliminary_grad_cell_based/tb.v(175)
+#    Time: 175 us  Iteration: 1  Instance: /tb
+# 1
+# Break in Module tb at C:/Users/User/Desktop/B_ICC2018_priliminary_grad_cell_based/tb.v line 175
+# Compile of huffman.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb
+# Loading work.huffman
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ./pattern1.dat and ./golden1.dat were used for this simulation.
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check HC : PASS
+# Check M : PASS
+# You PASS the contest now.
+# ** Note: $finish    : C:/Users/User/Desktop/B_ICC2018_priliminary_grad_cell_based/tb.v(175)
+#    Time: 1750 ns  Iteration: 1  Instance: /tb
+# 1
+# Break in Module tb at C:/Users/User/Desktop/B_ICC2018_priliminary_grad_cell_based/tb.v line 175
+# Compile of huffman.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb
+# Loading work.huffman
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ./pattern2.dat and ./golden2.dat were used for this simulation.
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check HC : PASS
+# Check M : PASS
+# You PASS the contest now.
+# ** Note: $finish    : C:/Users/User/Desktop/B_ICC2018_priliminary_grad_cell_based/tb.v(175)
+#    Time: 1750 ns  Iteration: 1  Instance: /tb
+# 1
+# Break in Module tb at C:/Users/User/Desktop/B_ICC2018_priliminary_grad_cell_based/tb.v line 175
+# Compile of huffman.v was successful.
+# Compile of tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.tb
+# Loading work.huffman
+run -all
+# GetModuleFileName: тぃ﹚家舱
+# 
+# 
+# ./pattern3.dat and ./golden3.dat were used for this simulation.
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check CNT : PASS
+# Check HC : PASS
+# Check M : PASS
+# You PASS the contest now.
+# ** Note: $finish    : C:/Users/User/Desktop/B_ICC2018_priliminary_grad_cell_based/tb.v(175)
+#    Time: 1750 ns  Iteration: 1  Instance: /tb
+# 1
+# Break in Module tb at C:/Users/User/Desktop/B_ICC2018_priliminary_grad_cell_based/tb.v line 175
+# End time: 09:25:07 on Jun 06,2024, Elapsed time: 19:36:12
+# Errors: 0, Warnings: 1
